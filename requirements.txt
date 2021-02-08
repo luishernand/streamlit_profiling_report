@@ -1,5 +1,5 @@
-streamlit==0.75.0
-pandas==1.2.1
-numpy==1.19.2
-pandas-profiling ==2.10.1
-streamlit-pandas-profiling==0.1.1
+streamlit
+pandas
+numpy
+pandas-profiling
+streamlit-pandas-profiling
